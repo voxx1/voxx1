@@ -1,10 +1,7 @@
 <h3 align="left">Hi 👋, I'm Norbert!</h3>
 <h3 align="left">I’m interested in Frontend development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voxx1&label=Profile%20views&color=0e75b6&style=flat" alt="voxx1" /> </p>
-
-- 🌱 I’m currently learning **TypeScript, and on my way to NodeJS!**
-
+<h3 align="left">🌱 I’m currently learning <b>TypeScript, and on my way to NodeJS!</b></h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
