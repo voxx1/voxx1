@@ -1,7 +1,7 @@
-<h3 align="left">Hi 👋, I'm Norbert!</h3>
-<h3 align="left">I’m interested in Frontend development.</h3>
+<h3 align="left">👋 Hi, I'm Norbert!</h3>
+<h4 align="left">🤝 I’m interested in Frontend development.</h3>
+<h4 align="left">🌱 I’m currently learning <b>TypeScript, and on my way to NodeJS!</b></h3>
 
-<h3 align="left">🌱 I’m currently learning <b>TypeScript, and on my way to NodeJS!</b></h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
